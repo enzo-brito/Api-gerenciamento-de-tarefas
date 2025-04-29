@@ -1,7 +1,7 @@
 
 # 📊 API de Gerenciamento de Tarefas
 
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)]()  
+[![Status](https://img.shields.io/badge/status-finalizado-green.svg)]()  
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()  
 [![Java](https://img.shields.io/badge/Java-11+-red.svg)]()  
 [![Spring](https://img.shields.io/badge/Spring%20Boot-2.5+-green.svg)]()  
